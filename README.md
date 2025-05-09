@@ -50,6 +50,6 @@ Le modèle atteint :
 Ce projet démontre comment l'IA et l'apprentissage automatique peuvent être appliqués dans le domaine médical pour une détection rapide et précise du COVID-19 en utilisant l'analyse audio. Grâce à l'utilisation de l'apprentissage par transfert avec Yamnet et l'optimisation des hyperparamètres avec Optuna, le projet a montré des résultats prometteurs pour identifier les toux liées au COVID-19, offrant ainsi un outil efficace pour un diagnostic précoce.
 
 ## Collaborateur
-Projet fait par Rafael Letrillard : https://github.com/rafalet34
-Projet fait par Amine Adib :  https://github.com/oildo
-Projet fait par Dogukan Tokmak : https://github.com/MonkeyDMugiwara/
+- Projet fait par Rafael Letrillard : https://github.com/rafalet34
+- Projet fait par Amine Adib :  https://github.com/oildo
+- Projet fait par Dogukan Tokmak : https://github.com/MonkeyDMugiwara/
